@@ -1,2 +1,4 @@
 *.png
-receipts/
+receipts/plots/
+# ignore all scv files
+**/*.csv
