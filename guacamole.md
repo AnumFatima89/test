@@ -4,4 +4,4 @@
 *lemonbsd
 *lime
 ## Instructions
-put avocado into a bowl
+put two avocados into a big bowl
